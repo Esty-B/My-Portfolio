@@ -21,7 +21,7 @@ ScrollReveal().reveal('.home-contact >p, .about-content', { origin: 'right'});
 
 /*-------------------------------- Typed js -------------------------------------*/
 const typed = new Typed('.multiple-text',{
-    strings: ['Frontend Developer.', 'Web Designer.', 'Graphics Designer', 'Microsoft Office.', ],
+    strings: ['Frontend Developer.', 'Web Designer.', 'Graphics Designer', 'Microsoft Office Operator.', ],
     typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1000,
